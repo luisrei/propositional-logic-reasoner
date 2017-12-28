@@ -1,0 +1,5 @@
+('=>', 'Rains', 'Pours')
+('not', 'Rusty')
+'Rains'
+'Outside'
+('=>', ('and', 'Pours', 'Outside'), 'Rusty') 
